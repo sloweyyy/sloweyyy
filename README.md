@@ -2,7 +2,7 @@
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
 # 💫 About Me:
-🌱 I’m currently learning Python, JS, ...<br><br>👨‍💻 All of my projects are available at <br><br>💬 Ask me about C++, HTML, CSS<br><br>📫 How to reach me truonglevinhphuc2006@gmail.com<br><br>
+🌱 I’m currently learning Python, JS, ...<br><br>👨‍💻 All of my projects are available at <br>https://github.com/sloweyyy<br>💬 Ask me about C++, HTML, CSS<br><br>📫 How to reach me truonglevinhphuc2006@gmail.com<br><br>
 
 
 ## 🌐 Socials:
