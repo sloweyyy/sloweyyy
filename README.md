@@ -17,5 +17,5 @@
 
 
 <p align="center">
-  <img src="https://github.com/sloweyyy/sloweyyy/blob/output/github-contribution-grid-snake.svg" alt="snake"></center>
+  <img src="https://github.com/sloweyyy/sloweyyy/blob/main/github-user-contribution.svg" alt="snake"></center>
 </p>
