@@ -14,3 +14,7 @@
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=sloweyyy&theme=nightowl&hide_border=true)<br/>
 ![](https://komarev.com/ghpvc/?username=sloweyyy&label=PROFILE+VIEWS)
+
+<p align="center">
+  <img src="https://github.com/sloweyyy/sloweyyy/blob/output/github-contribution-grid-snake.svg" alt="snake"></center>
+</p>
