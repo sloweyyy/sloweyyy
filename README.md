@@ -4,7 +4,7 @@
 🌱 I’m currently learning Python, JS, Dart, Kotlin ...<br><br>💬 Ask me about UI/UX, Mobile, and my life<br><br>📫 How to reach me truonglevinhphuc2006@gmail.com<br><br>
 
 
-## 🌐 Socials:
+<!-- ## 🌐 Socials:
 <div align="left">
   <a href="https://www.hackerrank.com/h22521145" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/hackerrank/default.svg" width="52" height="40" alt="hackerrank logo"  />
@@ -22,6 +22,7 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/behance/default.svg" width="52" height="40" alt="behance logo"  />
   </a>
 </div>
+-->
 
 
 
