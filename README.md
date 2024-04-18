@@ -24,7 +24,7 @@ As a student majoring in software engineering, I bring a wealth of experience ac
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Blockchain with Java
 ```
 
 <!--END_SECTION:waka-->
