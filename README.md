@@ -25,6 +25,7 @@ As a student majoring in software engineering, I bring a wealth of experience ac
 
 ```txt
 Blockchain with Java
+System modeling for Microservice
 ```
 
 <!--END_SECTION:waka-->
