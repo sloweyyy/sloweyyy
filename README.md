@@ -24,8 +24,9 @@ As a student majoring in software engineering, I bring a wealth of experience ac
 <!--START_SECTION:waka-->
 
 ```txt
-Blockchain with Java
+Facial Expression Recognition Project
 System modeling for Microservice
+React Native, Nodejs, Java, Springboot,...
 ```
 
 <!--END_SECTION:waka-->
