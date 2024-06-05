@@ -24,10 +24,8 @@ As a student majoring in software engineering, I bring a wealth of experience ac
 <!--START_SECTION:waka-->
 
 ```txt
-Facial Expression Recognition Project
-System modeling for Microservice
-Enigma Project
-React Native, Nodejs, Java, Springboot, Firebase,...
+Coffee Shop Management Project: React Native, Nodejs, Firebase, MongoDB
+Musify Project: Java, Firebase
 ```
 
 <!--END_SECTION:waka-->
