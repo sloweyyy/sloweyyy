@@ -25,7 +25,7 @@ As a student majoring in software engineering, I bring a wealth of experience ac
 
 ```txt
 Coffee Shop Management Project: React Native, Nodejs, Firebase, MongoDB
-Musify Project: Java, Firebase
+EmotionSense Model, Web, App: React Native, Flask, Tensorflow, ...
 ```
 
 <!--END_SECTION:waka-->
