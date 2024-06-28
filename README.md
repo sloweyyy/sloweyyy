@@ -25,7 +25,12 @@ As a student majoring in software engineering, I bring a wealth of experience ac
 
 ```txt
 Coffee Shop Management Project: React Native, Nodejs, Firebase, MongoDB
-EmotionSense Model, Web, App: React Native, Flask, Tensorflow, ...
+System modeling for CQRS
+System modeling for Event Sourcing
+System modeling for AI Model hub
+System modeling for Micro Frontend
+System modeling for Data Lake
+System modeling for Caching
 ```
 
 <!--END_SECTION:waka-->
