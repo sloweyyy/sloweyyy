@@ -24,13 +24,7 @@ As a student majoring in software engineering, I bring a wealth of experience ac
 <!--START_SECTION:waka-->
 
 ```txt
-Coffee Shop Management Project: React Native, Nodejs, Firebase, MongoDB
-System modeling for CQRS
-System modeling for Event Sourcing
-System modeling for AI Model hub
-System modeling for Micro Frontend
-System modeling for Data Lake
-System modeling for Caching
+Math for Data Science
 ```
 
 <!--END_SECTION:waka-->
