@@ -36,5 +36,5 @@ Math for Data Science
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sloweyyy&show_icons=true&hide_border=true&layout=compact&langs_count=10&theme=transparent&include_orgs=true"/>
 </p>
 
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
+<!--START_SECTION:SHOW_OS-->
+<!--END_SECTION:SHOW_OS-->
