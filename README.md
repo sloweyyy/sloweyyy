@@ -24,7 +24,8 @@ As a student majoring in software engineering, I bring a wealth of experience ac
 <!--START_SECTION:waka-->
 
 ```txt
-Math for Data Science
+SLDC
+PM Certificate from Google
 ```
 
 <!--END_SECTION:waka-->
