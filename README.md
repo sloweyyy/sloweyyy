@@ -24,8 +24,7 @@ As a student majoring in software engineering, I bring a wealth of experience ac
 <!--START_SECTION:waka-->
 
 ```txt
-SLDC
-PM Certificate from Google
+SDLC
 ```
 
 <!--END_SECTION:waka-->
