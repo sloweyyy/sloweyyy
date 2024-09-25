@@ -8,12 +8,8 @@
 
 <samp> As a student majoring in software engineering, I bring a wealth of experience across frontend, backend, and machine learning engineering domains. Just like a full-stack software engineer, I am passionate about programming, writing, speaking, and exploring new destinations. My approach to software engineering mirrors my commitment to meticulous attention to detail and a deep-seated desire to create impactful solutions. This compels me to work on projects that have the potential to make a meaningful difference in the world.
 
-**Talking about Personal Stuffs:**
 
--   <img src="https://github.com/Gapur/Gapur/blob/main/assets/developer.gif?raw=true" width="21" />&nbsp;&nbsp; <samp>I’m currently working on something cool;
--   <img src="https://github.com/Gapur/Gapur/blob/main/assets/lightning.gif?raw=true" width="21" />&nbsp;&nbsp; <samp>I’m currently learning Data Structures and Algorithms on [leetcode](https://leetcode.com/slowey/) and [hackerrank](https://www.hackerrank.com/profile/slowey);
--   <img src="https://github.com/Gapur/Gapur/blob/main/assets/laptop.gif?raw=true" width="21" />&nbsp;&nbsp; <samp>I regulary write articles on [Threads](https://www.threads.net/@slowey.psd);
--   <img src="https://github.com/Gapur/Gapur/blob/main/assets/letterbox.gif?raw=true" width="21" />&nbsp;&nbsp; <samp>How to reach me: truonglevinhphuc2006@gmail.com;
+-   <img src="https://github.com/Gapur/Gapur/blob/main/assets/lightning.gif?raw=true" width="21" />&nbsp;&nbsp; <samp>[leetcode](https://leetcode.com/slowey/) and [hackerrank](https://www.hackerrank.com/profile/slowey);
 -   <img src="https://github.com/Gapur/Gapur/blob/main/assets/doc.gif?raw=true" width="21" />&nbsp;&nbsp; <samp>[Resume](https://sloweyyy.github.io/CVWeb/Resume.pdf).
 
 </br>
