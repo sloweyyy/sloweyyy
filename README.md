@@ -23,7 +23,8 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Farming
+Blockchain Notarization
+Authentication & Authorization Seminar
 ```
 
 <!--END_SECTION:waka-->
