@@ -20,7 +20,7 @@
 
 ```txt
 Blockchain Notarization
-Authentication & Authorization Seminar
+GraphQL
 ```
 
 <!--END_SECTION:waka-->
