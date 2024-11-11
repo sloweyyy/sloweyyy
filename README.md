@@ -15,7 +15,18 @@
 </br>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-149%20hrs%2056%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-155%20hrs%2035%20mins-blue)
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🐱‍💻 Projects: 
+OnlineContestManagementSy8 hrs 5 mins        █████████░░░░░░░░░░░░░░░░   37.79 % 
+MDP                      4 hrs               █████░░░░░░░░░░░░░░░░░░░░   18.73 % 
+congchungonline-be       4 hrs               █████░░░░░░░░░░░░░░░░░░░░   18.70 % 
+TymeX-Internship-Mobile-I1 hr 49 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.50 % 
+Leetcode                 1 hr 31 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.15 % 
+```
 
 
 <!--END_SECTION:waka-->
