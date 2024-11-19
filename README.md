@@ -15,17 +15,17 @@
 </br>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-179%20hrs%202%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-181%20hrs%2019%20mins-blue)
 
 📊 **This Week I Spent My Time On** 
 
 ```text
 🐱‍💻 Projects: 
-express-graphql-example  11 hrs 6 mins       ███████████░░░░░░░░░░░░░░   44.52 % 
-congchungonline-be       5 hrs 10 mins       █████░░░░░░░░░░░░░░░░░░░░   20.76 % 
-studentmanagement        2 hrs 57 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.89 % 
-OnlineContestManagementSy2 hrs 1 min         ██░░░░░░░░░░░░░░░░░░░░░░░   08.10 % 
-OnlineContestManagementSy1 hr 32 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.19 % 
+express-graphql-example  11 hrs 6 mins       ████████████░░░░░░░░░░░░░   48.04 % 
+OnlineContestManagementSy3 hrs 31 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.25 % 
+studentmanagement        3 hrs               ███░░░░░░░░░░░░░░░░░░░░░░   13.00 % 
+OnlineContestManagementSy2 hrs 2 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.82 % 
+congchungonline-be       1 hr 17 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.59 % 
 ```
 
 
