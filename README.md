@@ -10,7 +10,7 @@
 
 
 -   <img src="https://github.com/Gapur/Gapur/blob/main/assets/lightning.gif?raw=true" width="21" />&nbsp;&nbsp; <samp>[leetcode](https://leetcode.com/slowey/) and [hackerrank](https://www.hackerrank.com/profile/slowey);
--   <img src="https://github.com/Gapur/Gapur/blob/main/assets/doc.gif?raw=true" width="21" />&nbsp;&nbsp; <samp>[Resume](https://docs.google.com/uc?export=download&id=1GwGAdVoL07p453oUvZU4YLiCwvMPI0rO).
+-   <img src="https://github.com/Gapur/Gapur/blob/main/assets/doc.gif?raw=true" width="21" />&nbsp;&nbsp; <samp>[Resume](https://drive.google.com/uc?export=download&id=14VcPD_mXkNDaLmYK5KaqwgBboKu0CQcC).
 
 </br>
 
