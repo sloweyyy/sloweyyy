@@ -15,6 +15,19 @@
 </br>
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-664%20hrs%2058%20mins-blue)
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🐱‍💻 Projects: 
+congchungonline-be       26 hrs 1 min        █████████████████░░░░░░░░   68.79 % 
+OnlineContestManagementSy3 hrs 57 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.44 % 
+freshli                  2 hrs 20 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.20 % 
+test graphql             1 hr 44 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.62 % 
+ResortManagementSystem-BE1 hr 16 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.35 % 
+```
+
 
 <!--END_SECTION:waka-->
 
