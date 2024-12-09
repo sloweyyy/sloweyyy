@@ -15,18 +15,7 @@
 </br>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-705%20hrs%2058%20mins-blue)
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🐱‍💻 Projects: 
-congchungonline-be       14 hrs 30 mins      ███████░░░░░░░░░░░░░░░░░░   27.30 % 
-OnlineContestManagementSy10 hrs 8 mins       █████░░░░░░░░░░░░░░░░░░░░   19.08 % 
-thirdweb                 7 hrs 40 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.45 % 
-cursus                   7 hrs               ███░░░░░░░░░░░░░░░░░░░░░░   13.20 % 
-FRESLI                   3 hrs 34 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.72 % 
-```
+![Code Time](http://img.shields.io/badge/Code%20Time-708%20hrs%2044%20mins-blue)
 
 
 <!--END_SECTION:waka-->
