@@ -15,7 +15,18 @@
 </br>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-980%20hrs%2016%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-991%20hrs%2016%20mins-blue)
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🐱‍💻 Projects: 
+resort-be                60 hrs 46 mins      ██████████████████░░░░░░░   71.40 % 
+cursus                   15 hrs 58 mins      █████░░░░░░░░░░░░░░░░░░░░   18.77 % 
+ResortManagementSystem-FE4 hrs 32 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.34 % 
+Leetcode                 3 hrs 41 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.34 % 
+congchungonline-be       5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 % 
+```
 
 
 <!--END_SECTION:waka-->
