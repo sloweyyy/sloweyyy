@@ -15,18 +15,7 @@
 </br>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C045%20hrs%2059%20mins-blue)
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🐱‍💻 Projects: 
-cursus                   18 hrs 44 mins      █████████░░░░░░░░░░░░░░░░   34.24 % 
-ResortManagementSystem-BE12 hrs 7 mins       ██████░░░░░░░░░░░░░░░░░░░   22.16 % 
-resort-be                11 hrs 34 mins      █████░░░░░░░░░░░░░░░░░░░░   21.14 % 
-Leetcode                 8 hrs 31 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.58 % 
-ResortManagementSystem-FE2 hrs 54 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.31 % 
-```
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C049%20hrs%2035%20mins-blue)
 
 
 <!--END_SECTION:waka-->
