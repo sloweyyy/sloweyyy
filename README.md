@@ -2,8 +2,8 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/sloweyne)
 [![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://slowey.works)
-
-### <samp>Glad to see you here! &nbsp; ![](https://komarev.com/ghpvc/?username=sloweyyy&style=flat-square)
+![](https://komarev.com/ghpvc/?username=sloweyyy&style=flat-square)
+### <samp>Glad to see you here! &nbsp; 
 
 <samp> As a student majoring in software engineering, I bring a wealth of experience across frontend, backend, and machine learning engineering domains. Just like a full-stack software engineer, I am passionate about programming, writing, speaking, and exploring new destinations. My approach to software engineering mirrors my commitment to meticulous attention to detail and a deep-seated desire to create impactful solutions. This compels me to work on projects that have the potential to make a meaningful difference in the world.
 
