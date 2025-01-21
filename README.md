@@ -14,17 +14,7 @@
 </br>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C075%20hrs%2055%20mins-blue)
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🐱‍💻 Projects: 
-MDP                      23 hrs 52 mins      ███████████████████████░░   90.65 % 
-Leetcode                 1 hr 21 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.15 % 
-cursus                   1 hr 6 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.18 % 
-spring-boot-authenticatio0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
-```
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C076%20hrs-blue)
 
 
 <!--END_SECTION:waka-->
