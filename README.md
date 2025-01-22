@@ -16,6 +16,14 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-1%2C076%20hrs-blue)
 
+📊 **This Week I Spent My Time On** 
+
+```text
+🐱‍💻 Projects: 
+MDP                      20 hrs 45 mins      ███████████████████████░░   93.51 % 
+Leetcode                 1 hr 26 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.49 % 
+```
+
 
 <!--END_SECTION:waka-->
 
