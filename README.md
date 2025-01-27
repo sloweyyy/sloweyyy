@@ -14,14 +14,13 @@
 </br>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C080%20hrs%2054%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C082%20hrs%2051%20mins-blue)
 
 📊 **This Week I Spent My Time On** 
 
 ```text
 🐱‍💻 Projects: 
-Leetcode                 4 hrs 58 mins       ██████████████░░░░░░░░░░░   56.94 % 
-MDP                      3 hrs 45 mins       ███████████░░░░░░░░░░░░░░   43.06 % 
+Leetcode                 6 hrs 55 mins       █████████████████████████   100.00 % 
 ```
 
 
