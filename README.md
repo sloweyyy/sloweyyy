@@ -14,18 +14,7 @@
 </br>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C115%20hrs%2045%20mins-blue)
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🐱‍💻 Projects: 
-react-portfolio          14 hrs 21 mins      ██████████████░░░░░░░░░░░   55.49 % 
-Leetcode                 5 hrs 6 mins        █████░░░░░░░░░░░░░░░░░░░░   19.77 % 
-portfolio                3 hrs 15 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.61 % 
-katalon-testops          3 hrs 8 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.12 % 
-congchungonline-be       0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
-```
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C117%20hrs%203%20mins-blue)
 
 
 <!--END_SECTION:waka-->
