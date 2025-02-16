@@ -5,8 +5,7 @@
 ![](https://komarev.com/ghpvc/?username=sloweyyy&style=flat-square)
 ### <samp>Glad to see you here! &nbsp; 
 
-<samp> As a student majoring in software engineering, I bring a wealth of experience across frontend, backend, and machine learning engineering domains. Just like a full-stack software engineer, I am passionate about programming, writing, speaking, and exploring new destinations. My approach to software engineering mirrors my commitment to meticulous attention to detail and a deep-seated desire to create impactful solutions. This compels me to work on projects that have the potential to make a meaningful difference in the world.
-
+<samp> Backend Software Engineer with a strong focus on building scalable and reliable solutions. Experienced in leading teams and managing complex projects, including designing systems and implementing DevOps practices. Skilled in problem-solving, system optimization, and delivering innovative solutions to meet business needs. Dedicated to continuous learning and contributing to impactful projects.
 
 -   <img src="https://github.com/Gapur/Gapur/blob/main/assets/lightning.gif?raw=true" width="21" />&nbsp;&nbsp; <samp>[leetcode](https://leetcode.com/slowey/) and [hackerrank](https://www.hackerrank.com/profile/slowey);
 -   <img src="https://github.com/Gapur/Gapur/blob/main/assets/doc.gif?raw=true" width="21" />&nbsp;&nbsp; <samp>[Resume](https://drive.google.com/file/d/14VcPD_mXkNDaLmYK5KaqwgBboKu0CQcC/view?usp=sharing).
