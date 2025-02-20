@@ -13,18 +13,7 @@
 </br>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C156%20hrs%2041%20mins-blue)
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🐱‍💻 Projects: 
-AutomationExercise       9 hrs 42 mins       ████████░░░░░░░░░░░░░░░░░   33.59 % 
-DSA                      8 hrs 13 mins       ███████░░░░░░░░░░░░░░░░░░   28.46 % 
-flutter-webview-sample-ap4 hrs 2 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.00 % 
-portfolio                3 hrs 27 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.00 % 
-auth-server              1 hr 48 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.25 % 
-```
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C164%20hrs%2015%20mins-blue)
 
 
 <!--END_SECTION:waka-->
