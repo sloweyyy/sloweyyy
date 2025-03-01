@@ -13,18 +13,7 @@
 </br>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C182%20hrs%208%20mins-blue)
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🐱‍💻 Projects: 
-Github_Graph             4 hrs 57 mins       █████████░░░░░░░░░░░░░░░░   36.20 % 
-Regression_Healthcare 3  3 hrs 14 mins       ██████░░░░░░░░░░░░░░░░░░░   23.72 % 
-date-time-picker-sample  2 hrs 51 mins       █████░░░░░░░░░░░░░░░░░░░░   20.93 % 
-date-time-picker-sample-11 hr 57 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.27 % 
-DSA                      38 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.71 % 
-```
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C187%20hrs%2021%20mins-blue)
 
 
 <!--END_SECTION:waka-->
