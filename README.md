@@ -13,7 +13,18 @@
 </br>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C230%20hrs%2010%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C230%20hrs%2017%20mins-blue)
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🐱‍💻 Projects: 
+ios_flutter_app          10 hrs 13 mins      ███████░░░░░░░░░░░░░░░░░░   29.37 % 
+DSA                      6 hrs 31 mins       █████░░░░░░░░░░░░░░░░░░░░   18.75 % 
+Regression_Healthcare 3  6 hrs 1 min         ████░░░░░░░░░░░░░░░░░░░░░   17.31 % 
+youtube-short-emb        5 hrs 45 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.53 % 
+Trustify-BE              2 hrs 17 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.61 % 
+```
 
 
 <!--END_SECTION:waka-->
