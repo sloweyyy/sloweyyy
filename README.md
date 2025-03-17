@@ -13,18 +13,7 @@
 </br>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C268%20hrs%209%20mins-blue)
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🐱‍💻 Projects: 
-support-reproduce-issue  14 hrs 15 mins      █████████░░░░░░░░░░░░░░░░   37.55 % 
-reproduce-table-case     12 hrs 15 mins      ████████░░░░░░░░░░░░░░░░░   32.26 % 
-DSA                      2 hrs 38 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.95 % 
-Unknown Project          2 hrs 16 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.01 % 
-reproduce-alert-case     2 hrs 10 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.74 % 
-```
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C268%20hrs%2039%20mins-blue)
 
 
 <!--END_SECTION:waka-->
