@@ -13,18 +13,7 @@
 </br>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C345%20hrs%2055%20mins-blue)
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🐱‍💻 Projects: 
-support-reproduce-issue  22 hrs 40 mins      ████████████████░░░░░░░░░   62.32 % 
-cloud-native-ecommerce-pl4 hrs 32 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.50 % 
-portfolio                3 hrs 8 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.63 % 
-ExperimentHub            2 hrs 14 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.15 % 
-backend                  2 hrs 4 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.72 % 
-```
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C353%20hrs%2036%20mins-blue)
 
 
 <!--END_SECTION:waka-->
