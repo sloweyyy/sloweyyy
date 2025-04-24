@@ -15,6 +15,15 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-1%2C417%20hrs%2059%20mins-blue)
 
+📊 **This Week I Spent My Time On** 
+
+```text
+🐱‍💻 Projects: 
+reproduce-wide-table     58 mins             ██████████████████░░░░░░░   70.08 % 
+ios_flutter_app          24 mins             ███████░░░░░░░░░░░░░░░░░░   29.41 % 
+reproduce-table-case     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.50 % 
+```
+
 
 <!--END_SECTION:waka-->
 
