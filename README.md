@@ -5,7 +5,7 @@
 ![](https://komarev.com/ghpvc/?username=sloweyyy&style=flat-square)
 ### <samp>Glad to see you here! &nbsp; 
 
-<samp> Backend Software Engineer with a strong focus on building scalable and reliable solutions. Experienced in leading teams and managing complex projects, including designing systems and implementing DevOps practices. Skilled in problem-solving, system optimization, and delivering innovative solutions to meet business needs. Dedicated to continuous learning and contributing to impactful projects.
+<samp> Software Engineer / DevOps Engineer with a strong focus on building scalable and reliable solutions. Experienced in leading teams and managing complex projects, including designing systems and implementing DevOps practices. Skilled in problem-solving, system optimization, and delivering innovative solutions to meet business needs. Dedicated to continuous learning and contributing to impactful projects.
 
 -   <img src="https://github.com/Gapur/Gapur/blob/main/assets/lightning.gif?raw=true" width="21" />&nbsp;&nbsp; <samp>[leetcode](https://leetcode.com/slowey/) and [hackerrank](https://www.hackerrank.com/profile/slowey);
 -   <img src="https://github.com/Gapur/Gapur/blob/main/assets/doc.gif?raw=true" width="21" />&nbsp;&nbsp; <samp>[Resume](https://drive.google.com/file/d/14VcPD_mXkNDaLmYK5KaqwgBboKu0CQcC/view?usp=sharing).
