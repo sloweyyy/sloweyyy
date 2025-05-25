@@ -13,18 +13,7 @@
 </br>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C587%20hrs%209%20mins-blue)
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🐱‍💻 Projects: 
-go-green-showcase        19 hrs 29 mins      ███████░░░░░░░░░░░░░░░░░░   28.97 % 
-Trustify-Backend         18 hrs 27 mins      ███████░░░░░░░░░░░░░░░░░░   27.43 % 
-Trustify-Frontend        15 hrs 54 mins      ██████░░░░░░░░░░░░░░░░░░░   23.63 % 
-katalon-docs-dita        4 hrs 21 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.49 % 
-reproduce-wide-table     3 hrs 21 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.00 % 
-```
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C597%20hrs%2046%20mins-blue)
 
 
 <!--END_SECTION:waka-->
