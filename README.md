@@ -13,18 +13,7 @@
 </br>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C646%20hrs%2016%20mins-blue)
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🐱‍💻 Projects: 
-GreenLedger              14 hrs 11 mins      █████████████████░░░░░░░░   69.92 % 
-Katalon-Assistant-Fork   1 hr 38 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.07 % 
-Katalon-Assistant        1 hr 34 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.78 % 
-cloud-native-ecommerce-pl59 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.91 % 
-support-reproduce-issue  57 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.74 % 
-```
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C652%20hrs%207%20mins-blue)
 
 
 <!--END_SECTION:waka-->
