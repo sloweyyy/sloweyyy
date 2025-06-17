@@ -15,6 +15,16 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-1%2C671%20hrs%2048%20mins-blue)
 
+📊 **This Week I Spent My Time On** 
+
+```text
+🐱‍💻 Projects: 
+automation-testing-compon7 hrs               ████████████████░░░░░░░░░   62.05 % 
+support-reproduce-issue  3 hrs 16 mins       ███████░░░░░░░░░░░░░░░░░░   29.06 % 
+cloud-native-ecommerce-pl58 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.62 % 
+Reproduce Website        1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 % 
+```
+
 
 <!--END_SECTION:waka-->
 
