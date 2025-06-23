@@ -13,15 +13,15 @@
 </br>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C676%20hrs%2035%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C689%20hrs%2047%20mins-blue)
 
 📊 **This Week I Spent My Time On** 
 
 ```text
 🐱‍💻 Projects: 
-cloud-native-ecommerce-pl3 hrs 14 mins       █████████████████░░░░░░░░   68.11 % 
-Katalon-Assistant        59 mins             █████░░░░░░░░░░░░░░░░░░░░   20.63 % 
-support-reproduce-issue  32 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.26 % 
+cloud-native-ecommerce-pl16 hrs 27 mins      ███████████████████████░░   91.54 % 
+Katalon-Assistant        59 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.47 % 
+support-reproduce-issue  32 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.99 % 
 ```
 
 
