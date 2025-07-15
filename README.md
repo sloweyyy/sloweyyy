@@ -15,17 +15,6 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-1%2C773%20hrs%2040%20mins-blue)
 
-📊 **This Week I Spent My Time On** 
-
-```text
-🐱‍💻 Projects: 
-Unknown Project          3 hrs 56 mins       █████░░░░░░░░░░░░░░░░░░░░   18.84 % 
-ecom-react               3 hrs 50 mins       █████░░░░░░░░░░░░░░░░░░░░   18.37 % 
-Katalon-Assistant        3 hrs 35 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.21 % 
-lrp-nts-automation - Edit2 hrs 23 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.42 % 
-cloud-native-ecommerce-pl2 hrs 10 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.41 % 
-```
-
 
 <!--END_SECTION:waka-->
 
