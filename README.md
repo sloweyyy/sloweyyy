@@ -13,7 +13,18 @@
 </br>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C773%20hrs%2040%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C779%20hrs%205%20mins-blue)
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🐱‍💻 Projects: 
+cloud-native-ecommerce-pl5 hrs 53 mins       ██████░░░░░░░░░░░░░░░░░░░   24.52 % 
+Unknown Project          3 hrs 56 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.37 % 
+ecom-react               3 hrs 50 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.96 % 
+Katalon-Assistant        3 hrs 35 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.96 % 
+lrp-nts-automation - Edit2 hrs 23 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.92 % 
+```
 
 
 <!--END_SECTION:waka-->
