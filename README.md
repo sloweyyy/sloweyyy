@@ -13,18 +13,7 @@
 </br>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C859%20hrs%2049%20mins-blue)
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🐱‍💻 Projects: 
-katalon-support-assistant12 hrs 14 mins      ██████████████░░░░░░░░░░░   56.35 % 
-hcmute-poc               4 hrs 4 mins        █████░░░░░░░░░░░░░░░░░░░░   18.72 % 
-onfido-ios-sdk           2 hrs 46 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.74 % 
-ai-internal-tools        1 hr 29 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.87 % 
-OP                       1 hr 9 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   05.33 % 
-```
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C862%20hrs%204%20mins-blue)
 
 
 <!--END_SECTION:waka-->
