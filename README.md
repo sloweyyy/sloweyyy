@@ -13,14 +13,15 @@
 </br>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C865%20hrs%2044%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C871%20hrs%2014%20mins-blue)
 
 📊 **This Week I Spent My Time On** 
 
 ```text
 🐱‍💻 Projects: 
-katalon-support-assistant8 hrs 49 mins       █████████████████████░░░░   85.27 % 
-katalon-docs-dita        1 hr 31 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.73 % 
+katalon-support-assistant9 hrs 57 mins       ████████████████░░░░░░░░░   65.67 % 
+Katalon-Assistant        3 hrs 40 mins       ██████░░░░░░░░░░░░░░░░░░░   24.27 % 
+katalon-docs-dita        1 hr 31 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.07 % 
 ```
 
 
