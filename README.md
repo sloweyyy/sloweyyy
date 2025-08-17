@@ -13,17 +13,7 @@
 </br>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C872%20hrs%2014%20mins-blue)
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🐱‍💻 Projects: 
-Katalon-Assistant        3 hrs 40 mins       ███████████░░░░░░░░░░░░░░   45.82 % 
-katalon-support-assistant1 hr 51 mins        ██████░░░░░░░░░░░░░░░░░░░   23.19 % 
-katalon-docs-dita        1 hr 31 mins        █████░░░░░░░░░░░░░░░░░░░░   19.01 % 
-cv                       57 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.98 % 
-```
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C872%20hrs%2016%20mins-blue)
 
 
 <!--END_SECTION:waka-->
