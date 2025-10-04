@@ -13,6 +13,19 @@ Software Engineer / DevOps Engineer with a strong focus on building scalable and
 </br>
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C089%20hrs%2039%20mins-blue)
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🐱‍💻 Projects: 
+katalon-support-assistant53 hrs 55 mins      ████████████████████████░   95.86 % 
+Katalon-Assistant        1 hr 42 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.03 % 
+cv                       30 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.91 % 
+ai-internal-tools        6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 % 
+Unknown Project          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+```
+
 
 <!--END_SECTION:waka-->
 
