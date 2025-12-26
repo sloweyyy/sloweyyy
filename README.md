@@ -19,8 +19,8 @@ Software Engineer / DevOps Engineer with a strong focus on building scalable and
 
 ```text
 🐱‍💻 Projects: 
-cloud-native-ecommerce-pl22 hrs 54 mins      ████████████████████░░░░░   80.23 % 
-katalon-support-assistant5 hrs 38 mins       █████░░░░░░░░░░░░░░░░░░░░   19.77 % 
+cloud-native-ecommerce-pl19 hrs 58 mins      ██████████████████████░░░   88.98 % 
+katalon-support-assistant2 hrs 28 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.02 % 
 ```
 
 
