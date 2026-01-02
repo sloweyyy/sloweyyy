@@ -29,8 +29,8 @@ katalon-support-assistant4 hrs 59 mins       ███░░░░░░░░�
 📈 **<samp>My GitHub Stats:**
 
 <p>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sloweyyy&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=transparent&include_orgs=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sloweyyy&show_icons=true&hide_border=true&layout=compact&langs_count=10&theme=transparent&include_orgs=true&exclude_repo=Facial-expression-recognition-through-Portrait-Images,CS114.O11-22521145,CS114.O11-FinalProject,katalon-testops,trustify-truetest,trustify-truetest,ML-specialization-notes&hide=html,css"/>
+  <img height="180em" src="https://readme-stats-fast.vercel.app/api?username=sloweyyy&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=transparent&include_orgs=true" />
+  <img height="180em" src="https://readme-stats-fast.vercel.app/api/top-langs/?username=sloweyyy&show_icons=true&hide_border=true&layout=compact&langs_count=10&theme=transparent&include_orgs=true&exclude_repo=Facial-expression-recognition-through-Portrait-Images,CS114.O11-22521145,CS114.O11-FinalProject,katalon-testops,trustify-truetest,trustify-truetest,ML-specialization-notes&hide=html,css"/>
 </p>
 
 <!--START_SECTION:SHOW_OS-->
