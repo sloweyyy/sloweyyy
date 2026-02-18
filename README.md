@@ -19,7 +19,7 @@ Software Engineer / DevOps Engineer with a strong focus on building scalable and
 
 ```text
 🐱‍💻 Projects: 
-katalon-support-assistant1 hr 18 mins        █████████████████████████   100.00 % 
+katalon-support-assistant57 mins             █████████████████████████   100.00 % 
 ```
 
 
