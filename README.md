@@ -19,9 +19,8 @@ Software Engineer / DevOps Engineer with a strong focus on building scalable and
 
 ```text
 🐱‍💻 Projects: 
-DS                       7 hrs 42 mins       ██████████████████████░░░   87.99 % 
-studocu-pdf-downloader   50 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.60 % 
-katalon-support-assistant12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.41 % 
+DS                       7 hrs 42 mins       ███████████████████████░░   90.16 % 
+studocu-pdf-downloader   50 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.84 % 
 ```
 
 
