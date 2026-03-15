@@ -13,17 +13,17 @@ Software Engineer / DevOps Engineer with a strong focus on building scalable and
 </br>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C804%20hrs%2015%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C804%20hrs%2029%20mins-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
 ```text
 🐱‍💻 Projects: 
-DS                       7 hrs 42 mins       ████████░░░░░░░░░░░░░░░░░   33.49 % 
-portfolio                6 hrs 53 mins       ███████░░░░░░░░░░░░░░░░░░   29.93 % 
-oauth-git                3 hrs 6 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.50 % 
-katalon-support-assistant3 hrs 4 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.36 % 
-Unknown Project          1 hr 40 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.25 % 
+portfolio                6 hrs 53 mins       ███████████░░░░░░░░░░░░░░   44.32 % 
+oauth-git                3 hrs 6 mins        █████░░░░░░░░░░░░░░░░░░░░   19.99 % 
+katalon-support-assistant3 hrs 4 mins        █████░░░░░░░░░░░░░░░░░░░░   19.78 % 
+Unknown Project          1 hr 40 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.73 % 
+oauth-server             32 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.44 % 
 ```
 
 
