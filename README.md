@@ -13,16 +13,17 @@ Software Engineer / DevOps Engineer with a strong focus on building scalable and
 </br>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C838%20hrs%2058%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C840%20hrs%2031%20mins-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
 ```text
 🐱‍💻 Projects: 
-katalon-support-assistant22 hrs 25 mins      ███████████████████░░░░░░   77.04 % 
-cloud-native-ecommerce-pl3 hrs 58 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.64 % 
-llmfit                   2 hrs 30 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.63 % 
-Unknown Project          12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.69 % 
+katalon-support-assistant13 hrs 55 mins      ██████████████████░░░░░░░   71.05 % 
+cloud-native-ecommerce-pl3 hrs 58 mins       █████░░░░░░░░░░░░░░░░░░░░   20.25 % 
+Unknown Project          51 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.35 % 
+support-artifacts        40 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.45 % 
+ksa-db                   10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.89 % 
 ```
 
 
