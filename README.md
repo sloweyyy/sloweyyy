@@ -13,17 +13,17 @@ Software Engineer / DevOps Engineer with a strong focus on building scalable and
 </br>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C902%20hrs%2033%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C905%20hrs%2046%20mins-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
 ```text
 🐱‍💻 Projects: 
-katalon-support-assistant19 hrs 59 mins      ███████████░░░░░░░░░░░░░░   45.50 % 
-UIT-Pray                 12 hrs              ███████░░░░░░░░░░░░░░░░░░   27.33 % 
-portfolio                4 hrs 10 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.50 % 
-llmfit                   3 hrs 59 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.08 % 
-ExperimentHub            2 hrs 12 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.04 % 
+katalon-support-assistant19 hrs 58 mins      ███████████████░░░░░░░░░░   59.10 % 
+UIT-Pray                 5 hrs 37 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.64 % 
+portfolio                4 hrs 10 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.36 % 
+ExperimentHub            2 hrs 12 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.55 % 
+TrueTest-iGO             1 hr 11 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.53 % 
 ```
 
 
