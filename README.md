@@ -13,17 +13,17 @@ Software Engineer / DevOps Engineer with a strong focus on building scalable and
 </br>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C982%20hrs%2056%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C988%20hrs%2026%20mins-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
 ```text
 🐱‍💻 Projects: 
-slowey-lab               19 hrs 37 mins      ████████████░░░░░░░░░░░░░   46.23 % 
-print-iframe             8 hrs 28 mins       █████░░░░░░░░░░░░░░░░░░░░   19.96 % 
-SP-second-brain-final    5 hrs 7 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.08 % 
-onboarding-project       2 hrs 37 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.19 % 
-katalon-support-assistant2 hrs 32 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.99 % 
+slowey-lab               8 hrs 23 mins       ██████░░░░░░░░░░░░░░░░░░░   25.50 % 
+katalon-support-assistant6 hrs 23 mins       █████░░░░░░░░░░░░░░░░░░░░   19.44 % 
+print-iframe             6 hrs 5 mins        █████░░░░░░░░░░░░░░░░░░░░   18.52 % 
+SP-second-brain-final    5 hrs 25 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.47 % 
+onboarding-project       2 hrs 37 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.99 % 
 ```
 
 
