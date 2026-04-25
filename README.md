@@ -13,17 +13,17 @@ Software Engineer / DevOps Engineer with a strong focus on building scalable and
 </br>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C988%20hrs%2026%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C994%20hrs%2047%20mins-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
 ```text
 🐱‍💻 Projects: 
-slowey-lab               8 hrs 23 mins       ██████░░░░░░░░░░░░░░░░░░░   25.50 % 
-katalon-support-assistant6 hrs 23 mins       █████░░░░░░░░░░░░░░░░░░░░   19.44 % 
-print-iframe             6 hrs 5 mins        █████░░░░░░░░░░░░░░░░░░░░   18.52 % 
-SP-second-brain-final    5 hrs 25 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.47 % 
-onboarding-project       2 hrs 37 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.99 % 
+katalon-support-assistant10 hrs 46 mins      ██████████░░░░░░░░░░░░░░░   39.48 % 
+SP-second-brain-final    4 hrs 11 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.37 % 
+slowey-lab               4 hrs 8 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.21 % 
+onboarding-project       2 hrs 37 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.63 % 
+mvp-extension            1 hr 10 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.33 % 
 ```
 
 
