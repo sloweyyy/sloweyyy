@@ -13,17 +13,17 @@ Software Engineer / DevOps Engineer with a strong focus on building scalable and
 </br>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C006%20hrs%2042%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C006%20hrs%2044%20mins-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
 ```text
 🐱‍💻 Projects: 
-katalon-support-assistant11 hrs 16 mins      ██████████░░░░░░░░░░░░░░░   39.88 % 
-SP-second-brain-final    6 hrs 19 mins       ██████░░░░░░░░░░░░░░░░░░░   22.41 % 
-portfolio                3 hrs 54 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.80 % 
-greenify-fe              3 hrs 2 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.76 % 
-mvp-extension            1 hr 10 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.18 % 
+katalon-support-assistant11 hrs 6 mins       ██████████░░░░░░░░░░░░░░░   41.86 % 
+SP-second-brain-final    6 hrs 19 mins       ██████░░░░░░░░░░░░░░░░░░░   23.84 % 
+portfolio                3 hrs 54 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.69 % 
+greenify-fe              3 hrs 2 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.45 % 
+ci-samples               54 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.43 % 
 ```
 
 
