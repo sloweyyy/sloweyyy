@@ -13,17 +13,17 @@ Software Engineer / DevOps Engineer with a strong focus on building scalable and
 </br>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C017%20hrs%2050%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C025%20hrs%2020%20mins-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
 ```text
 🐱‍💻 Projects: 
-SP-second-brain-final    12 hrs 59 mins      ███████████░░░░░░░░░░░░░░   43.71 % 
-katalon-support-assistant8 hrs 31 mins       ███████░░░░░░░░░░░░░░░░░░   28.69 % 
-portfolio                3 hrs 54 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.13 % 
-greenify-fe              3 hrs 2 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.24 % 
-open-vibe-island         53 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.01 % 
+SP-second-brain-final    15 hrs 46 mins      █████████████░░░░░░░░░░░░   51.39 % 
+katalon-support-assistant7 hrs 26 mins       ██████░░░░░░░░░░░░░░░░░░░   24.27 % 
+portfolio                3 hrs 8 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.26 % 
+greenify-fe              3 hrs 2 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.91 % 
+open-vibe-island         53 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.92 % 
 ```
 
 
