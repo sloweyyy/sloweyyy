@@ -13,17 +13,17 @@ Software Engineer / DevOps Engineer with a strong focus on building scalable and
 </br>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C034%20hrs%2044%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C042%20hrs%2036%20mins-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
 ```text
 🐱‍💻 Projects: 
-SP-second-brain-final    16 hrs 32 mins      ███████████████░░░░░░░░░░   58.73 % 
-katalon-support-assistant7 hrs 1 min         ██████░░░░░░░░░░░░░░░░░░░   24.93 % 
-warp                     3 hrs 17 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.70 % 
-getslowey                1 hr 6 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.95 % 
-portfolio                8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.50 % 
+SP-second-brain-final    16 hrs 32 mins      ████████████░░░░░░░░░░░░░   46.13 % 
+katalon-support-assistant6 hrs 51 mins       █████░░░░░░░░░░░░░░░░░░░░   19.11 % 
+getslowey                5 hrs 37 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.68 % 
+warp                     3 hrs 17 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.19 % 
+fived-studio.github.io   1 hr 55 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.37 % 
 ```
 
 
