@@ -13,7 +13,18 @@ Software Engineer / DevOps Engineer with a strong focus on building scalable and
 </br>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C074%20hrs%2011%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C075%20hrs%2010%20mins-blue?style=flat)
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🐱‍💻 Projects: 
+SP-second-brain-final    11 hrs 58 mins      ██████░░░░░░░░░░░░░░░░░░░   25.91 % 
+htdocs                   7 hrs 50 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.96 % 
+pulse                    6 hrs 9 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.33 % 
+getslowey                5 hrs 37 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.19 % 
+fived-studio.github.io   5 hrs 9 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.17 % 
+```
 
 
 <!--END_SECTION:waka-->
