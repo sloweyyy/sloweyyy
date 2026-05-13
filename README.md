@@ -19,11 +19,11 @@ Software Engineer / DevOps Engineer with a strong focus on building scalable and
 
 ```text
 🐱‍💻 Projects: 
-SP-second-brain-final    11 hrs 58 mins      ██████░░░░░░░░░░░░░░░░░░░   25.72 % 
-htdocs                   7 hrs 50 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.84 % 
-pulse                    6 hrs 30 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.00 % 
-slowey-lab               6 hrs 16 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.50 % 
-fived-studio.github.io   5 hrs 40 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.21 % 
+SP-second-brain-final    11 hrs 24 mins      ███████░░░░░░░░░░░░░░░░░░   27.56 % 
+slowey-lab               8 hrs 44 mins       █████░░░░░░░░░░░░░░░░░░░░   21.09 % 
+htdocs                   7 hrs 50 mins       █████░░░░░░░░░░░░░░░░░░░░   18.92 % 
+pulse                    3 hrs 52 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.36 % 
+resume                   3 hrs 5 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.47 % 
 ```
 
 
