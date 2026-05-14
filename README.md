@@ -13,17 +13,17 @@ Software Engineer / DevOps Engineer with a strong focus on building scalable and
 </br>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C087%20hrs%205%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C093%20hrs%2043%20mins-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
 ```text
 🐱‍💻 Projects: 
-SP-second-brain-final    11 hrs 24 mins      ███████░░░░░░░░░░░░░░░░░░   27.56 % 
-slowey-lab               8 hrs 44 mins       █████░░░░░░░░░░░░░░░░░░░░   21.09 % 
-htdocs                   7 hrs 50 mins       █████░░░░░░░░░░░░░░░░░░░░   18.92 % 
-pulse                    3 hrs 52 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.36 % 
-resume                   3 hrs 5 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.47 % 
+slowey-lab               8 hrs 59 mins       ███████░░░░░░░░░░░░░░░░░░   28.46 % 
+SP-second-brain-final    7 hrs 1 min         ██████░░░░░░░░░░░░░░░░░░░   22.21 % 
+htdocs                   6 hrs 58 mins       ██████░░░░░░░░░░░░░░░░░░░   22.05 % 
+fived-studio.github.io   2 hrs 42 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.55 % 
+resume                   2 hrs 28 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.82 % 
 ```
 
 
