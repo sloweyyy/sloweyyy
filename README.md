@@ -13,17 +13,17 @@ Software Engineer / DevOps Engineer with a strong focus on building scalable and
 </br>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C219%20hrs%2057%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C252%20hrs%206%20mins-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
 ```text
 🐱‍💻 Projects: 
-htdocs                   21 hrs 48 mins      ███████████░░░░░░░░░░░░░░   44.48 % 
-katalon-support-assistant7 hrs 23 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.08 % 
-cloud-native-ecommerce-pl6 hrs 38 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.55 % 
-slowey-lab               5 hrs 23 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.01 % 
-katalon-studio-sealights-1 hr 57 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.98 % 
+htdocs                   31 hrs 3 mins       █████████████░░░░░░░░░░░░   53.66 % 
+cloud-native-ecommerce-pl9 hrs 47 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.92 % 
+katalon-support-assistant8 hrs 29 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.68 % 
+katalon-studio-sealights-1 hr 57 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.37 % 
+pulse                    1 hr 10 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.04 % 
 ```
 
 
