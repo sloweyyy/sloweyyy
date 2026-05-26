@@ -19,11 +19,11 @@ Software Engineer / DevOps Engineer with a strong focus on building scalable and
 
 ```text
 🐱‍💻 Projects: 
-htdocs                   23 hrs 22 mins      █████████░░░░░░░░░░░░░░░░   37.21 % 
-kally-partnerships       13 hrs 33 mins      █████░░░░░░░░░░░░░░░░░░░░   21.58 % 
-katalon-support-assistant9 hrs 16 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.77 % 
-cloud-native-ecommerce-pl8 hrs 12 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.06 % 
-phuc.truong              2 hrs 59 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.75 % 
+htdocs                   23 hrs 22 mins      ██████████░░░░░░░░░░░░░░░   41.67 % 
+kally-partnerships       13 hrs 33 mins      ██████░░░░░░░░░░░░░░░░░░░   24.17 % 
+katalon-support-assistant7 hrs 57 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.18 % 
+cloud-native-ecommerce-pl4 hrs 11 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.47 % 
+phuc.truong              2 hrs 59 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.32 % 
 ```
 
 
