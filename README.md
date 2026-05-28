@@ -13,17 +13,17 @@ Software Engineer / DevOps Engineer with a strong focus on building scalable and
 </br>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C276%20hrs%204%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C284%20hrs%2051%20mins-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
 ```text
 🐱‍💻 Projects: 
-htdocs                   14 hrs              ████████░░░░░░░░░░░░░░░░░   33.09 % 
-kally-partnerships       13 hrs 33 mins      ████████░░░░░░░░░░░░░░░░░   32.05 % 
-katalon-support-assistant6 hrs 48 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.09 % 
-phuc.truong              2 hrs 59 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.05 % 
-SP-second-brain-final    2 hrs 23 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.63 % 
+kally-partnerships       11 hrs 32 mins      █████████░░░░░░░░░░░░░░░░   35.98 % 
+htdocs                   7 hrs 49 mins       ██████░░░░░░░░░░░░░░░░░░░   24.42 % 
+katalon-support-assistant4 hrs 15 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.29 % 
+SP-second-brain-final    4 hrs 7 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.89 % 
+phuc.truong              2 hrs 59 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.31 % 
 ```
 
 
