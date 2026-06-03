@@ -13,17 +13,17 @@ Software Engineer / DevOps Engineer with a strong focus on building scalable and
 </br>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C319%20hrs%2022%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C324%20hrs%2014%20mins-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
 ```text
 🐱‍💻 Projects: 
-kally-partnerships       20 hrs 42 mins      ████████████░░░░░░░░░░░░░   48.32 % 
-katalon-support-assistant14 hrs 4 mins       ████████░░░░░░░░░░░░░░░░░   32.86 % 
-SP-second-brain-final    3 hrs 9 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.36 % 
-slowey-lab               1 hr 32 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.60 % 
-htdocs                   1 hr 26 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.36 % 
+kally-partnerships       20 hrs 42 mins      ███████████░░░░░░░░░░░░░░   43.41 % 
+katalon-support-assistant14 hrs 38 mins      ████████░░░░░░░░░░░░░░░░░   30.67 % 
+htdocs                   3 hrs 13 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.76 % 
+SP-second-brain-final    3 hrs 9 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.61 % 
+website                  2 hrs 31 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.28 % 
 ```
 
 
