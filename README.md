@@ -13,17 +13,17 @@ Software Engineer / DevOps Engineer with a strong focus on building scalable and
 </br>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C373%20hrs%2014%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C384%20hrs%2019%20mins-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
 ```text
 🐱‍💻 Projects: 
-katalon-support-assistant8 hrs 40 mins       ████████░░░░░░░░░░░░░░░░░   30.72 % 
-SP-second-brain-final    4 hrs 21 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.44 % 
-slowey-lab               3 hrs 27 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.23 % 
-support-artifacts        2 hrs 31 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.94 % 
-invitation-letter        2 hrs 3 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.29 % 
+slowey-lab               7 hrs 33 mins       ██████░░░░░░░░░░░░░░░░░░░   24.94 % 
+SP-second-brain-final    7 hrs 13 mins       ██████░░░░░░░░░░░░░░░░░░░   23.85 % 
+katalon-support-assistant5 hrs 45 mins       █████░░░░░░░░░░░░░░░░░░░░   19.01 % 
+website-katalon-training 3 hrs 48 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.55 % 
+support-artifacts        1 hr 40 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.50 % 
 ```
 
 
