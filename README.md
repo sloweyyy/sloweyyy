@@ -19,11 +19,11 @@ Software Engineer / DevOps Engineer with a strong focus on building scalable and
 
 ```text
 🐱‍💻 Projects: 
-SP-second-brain-final    12 hrs              ████████░░░░░░░░░░░░░░░░░   31.77 % 
-slowey-lab               7 hrs 57 mins       █████░░░░░░░░░░░░░░░░░░░░   21.06 % 
-mfc-innersource-katalon-e5 hrs 31 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.62 % 
-website-katalon-training 3 hrs 48 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.08 % 
-katalon-support-assistant3 hrs 4 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.15 % 
+SP-second-brain-final    12 hrs              ████████░░░░░░░░░░░░░░░░░   32.31 % 
+slowey-lab               7 hrs 19 mins       █████░░░░░░░░░░░░░░░░░░░░   19.72 % 
+mfc-innersource-katalon-e5 hrs 31 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.87 % 
+website-katalon-training 3 hrs 48 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.25 % 
+katalon-support-assistant3 hrs 4 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.29 % 
 ```
 
 
