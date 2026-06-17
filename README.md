@@ -13,17 +13,17 @@ Software Engineer / DevOps Engineer with a strong focus on building scalable and
 </br>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C398%20hrs%2037%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C415%20hrs%2045%20mins-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
 ```text
 🐱‍💻 Projects: 
-SP-second-brain-final    12 hrs              ████████░░░░░░░░░░░░░░░░░   32.31 % 
-slowey-lab               7 hrs 19 mins       █████░░░░░░░░░░░░░░░░░░░░   19.72 % 
-mfc-innersource-katalon-e5 hrs 31 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.87 % 
-website-katalon-training 3 hrs 48 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.25 % 
-katalon-support-assistant3 hrs 4 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.29 % 
+SP-second-brain-final    25 hrs 11 mins      █████████████░░░░░░░░░░░░   52.95 % 
+slowey-lab               7 hrs 46 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.34 % 
+mfc-innersource-katalon-e5 hrs 31 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.61 % 
+katalon-support-assistant2 hrs 49 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.95 % 
+website-katalon-training 2 hrs 45 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.78 % 
 ```
 
 
