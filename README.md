@@ -13,17 +13,17 @@ Software Engineer / DevOps Engineer with a strong focus on building scalable and
 </br>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C444%20hrs%2021%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C461%20hrs%2030%20mins-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
 ```text
 🐱‍💻 Projects: 
-SP-second-brain-final    38 hrs 4 mins       ████████████░░░░░░░░░░░░░   47.82 % 
-slowey-lab               17 hrs 29 mins      █████░░░░░░░░░░░░░░░░░░░░   21.97 % 
-GreenLedger              8 hrs 40 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.90 % 
-mfc-innersource-katalon-e6 hrs 2 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.59 % 
-katalon-support-assistant3 hrs 36 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.53 % 
+SP-second-brain-final    36 hrs 1 min        ███████████░░░░░░░░░░░░░░   42.02 % 
+slowey-lab               25 hrs 1 min        ███████░░░░░░░░░░░░░░░░░░   29.19 % 
+GreenLedger              8 hrs 40 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.13 % 
+katalon-support-assistant7 hrs 20 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.57 % 
+mfc-innersource-katalon-e6 hrs 2 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.05 % 
 ```
 
 
