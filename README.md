@@ -13,17 +13,17 @@ Software Engineer / DevOps Engineer with a strong focus on building scalable and
 </br>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C469%20hrs%2014%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C475%20hrs%2020%20mins-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
 ```text
 🐱‍💻 Projects: 
-SP-second-brain-final    34 hrs 21 mins      ███████████░░░░░░░░░░░░░░   43.42 % 
-slowey-lab               24 hrs 12 mins      ████████░░░░░░░░░░░░░░░░░   30.59 % 
-GreenLedger              8 hrs 40 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.97 % 
-katalon-support-assistant6 hrs 56 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.78 % 
-website-katalon-training 2 hrs 25 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   03.06 % 
+SP-second-brain-final    35 hrs              ███████████░░░░░░░░░░░░░░   45.65 % 
+slowey-lab               29 hrs 28 mins      ██████████░░░░░░░░░░░░░░░   38.42 % 
+katalon-support-assistant6 hrs 56 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.06 % 
+website-katalon-training 2 hrs 25 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   03.16 % 
+GreenLedger              48 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.05 % 
 ```
 
 
