@@ -19,11 +19,11 @@ Software Engineer / DevOps Engineer with a strong focus on building scalable and
 
 ```text
 🐱‍💻 Projects: 
-slowey-lab               29 hrs 9 mins       ████████████░░░░░░░░░░░░░   46.15 % 
-SP-second-brain-final    25 hrs 42 mins      ██████████░░░░░░░░░░░░░░░   40.70 % 
-katalon-support-assistant5 hrs 47 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.16 % 
-website-katalon-training 2 hrs 25 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   03.84 % 
-support-skills           5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 % 
+slowey-lab               33 hrs 25 mins      █████████████░░░░░░░░░░░░   52.70 % 
+SP-second-brain-final    20 hrs 1 min        ████████░░░░░░░░░░░░░░░░░   31.57 % 
+katalon-support-assistant7 hrs 14 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.41 % 
+website-katalon-training 2 hrs 37 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.15 % 
+katalon-cws-automation   5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 % 
 ```
 
 
