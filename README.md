@@ -13,17 +13,17 @@ Software Engineer / DevOps Engineer with a strong focus on building scalable and
 </br>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C591%20hrs%2047%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C604%20hrs%2053%20mins-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
 ```text
 🐱‍💻 Projects: 
-slowey-lab               35 hrs 21 mins      █████████████░░░░░░░░░░░░   52.94 % 
-SP-second-brain-final    24 hrs 28 mins      █████████░░░░░░░░░░░░░░░░   36.65 % 
-katalon-support-assistant3 hrs 50 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.76 % 
-cloud-native-ecommerce-pl1 hr 23 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.08 % 
-website-katalon-training 1 hr 22 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.06 % 
+slowey-lab               37 hrs 12 mins      ██████████████░░░░░░░░░░░   56.09 % 
+SP-second-brain-final    19 hrs 20 mins      ███████░░░░░░░░░░░░░░░░░░   29.15 % 
+katalon-support-assistant4 hrs 36 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.94 % 
+TrueTest-iGO             1 hr 53 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.84 % 
+cloud-native-ecommerce-pl1 hr 23 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.09 % 
 ```
 
 
