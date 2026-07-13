@@ -19,11 +19,11 @@ Software Engineer / DevOps Engineer with a strong focus on building scalable and
 
 ```text
 🐱‍💻 Projects: 
-support-operation-center 27 hrs 36 mins      █████████░░░░░░░░░░░░░░░░   35.32 % 
-slowey-lab               26 hrs 32 mins      ████████░░░░░░░░░░░░░░░░░   33.96 % 
-daily-stuff              7 hrs 14 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.25 % 
-katalon-support-assistant5 hrs 27 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.99 % 
-SP-second-brain-final    4 hrs 44 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.06 % 
+support-operation-center 27 hrs 36 mins      █████████░░░░░░░░░░░░░░░░   37.71 % 
+slowey-lab               25 hrs 17 mins      █████████░░░░░░░░░░░░░░░░   34.55 % 
+daily-stuff              7 hrs 14 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.88 % 
+katalon-support-assistant5 hrs 16 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.21 % 
+UIT-Pray                 2 hrs 59 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.08 % 
 ```
 
 
