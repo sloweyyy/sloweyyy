@@ -13,17 +13,44 @@ Software Engineer / DevOps Engineer with a strong focus on building scalable and
 </br>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C854%20hrs%2055%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C690%20hrs%2054%20mins-blue?style=flat)
+
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-1%2C089%20hrs%2017%20mins-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
 ```text
 🐱‍💻 Projects: 
-slowey-lab               33 hrs 47 mins      ███████████░░░░░░░░░░░░░░   43.71 % 
-support-operation-center 19 hrs              ██████░░░░░░░░░░░░░░░░░░░   24.58 % 
-daily-stuff              16 hrs 58 mins      █████░░░░░░░░░░░░░░░░░░░░   21.96 % 
-website-katalon-training 3 hrs 45 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.86 % 
-katalon-support-assistant3 hrs 5 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.00 % 
+slowey-lab               23 hrs 17 mins      █████████░░░░░░░░░░░░░░░░   36.14 % 
+support-operation-center 18 hrs 59 mins      ███████░░░░░░░░░░░░░░░░░░   29.48 % 
+daily-stuff              15 hrs 41 mins      ██████░░░░░░░░░░░░░░░░░░░   24.35 % 
+katalon-support-assistant3 hrs 5 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.79 % 
+website-katalon-training 2 hrs 40 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.15 % 
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+⏱ AI Coding Time: 63 hrs 55 mins (99.19%)
+
+✍️ 10,127 lines written by AI, 9 lines written by hand (99.91% AI-written)
+
+🔤 641,438,475 Input Tokens, 2,357,347 Output Tokens
+
+💵 $2624.88 Estimated AI Cost This Week
+
+🧠 58 AI Sessions, 257 AI Prompts
+
+Opus                     6,438 lines         ████████████████░░░░░░░░░   62.05 % 
+Fable                    3,938 lines         █████████░░░░░░░░░░░░░░░░   37.95 % 
+Sonnet                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 99.91% of written lines came from AI
+📚 Verbose Prompter — average 10,787 characters per prompt
+🔁 Iterative Prompter — average 4 prompts per session
+🚀 High AI Trust — 0.14% of changed lines were hand-edited
 ```
 
 
