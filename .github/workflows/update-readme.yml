@@ -32,4 +32,6 @@ jobs:
                   COMMIT_BY_ME: False
                   COMMIT_MESSAGE: Updated with Dev Metrics
                   COMMIT_SINGLE: False
+                  SHOW_AI_CODING: False
+                  SHOW_AI_CODE_TIME: False
               
