@@ -13,45 +13,7 @@ Software Engineer / DevOps Engineer with a strong focus on building scalable and
 </br>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C732%20hrs%2030%20mins-blue?style=flat)
-
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-1%2C132%20hrs%2049%20mins-blue?style=flat)
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🐱‍💻 Projects: 
-support-operation-center 20 hrs 35 mins      ██████████░░░░░░░░░░░░░░░   38.16 % 
-daily-stuff              11 hrs 12 mins      █████░░░░░░░░░░░░░░░░░░░░   20.76 % 
-slowey-lab               10 hrs 48 mins      █████░░░░░░░░░░░░░░░░░░░░   20.05 % 
-resume-maker             3 hrs 53 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.23 % 
-katalon-support-assistant3 hrs 40 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.82 % 
-```
-
-🤖 **AI Coding This Week** 
-
-```text
-⏱ AI Coding Time: 49 hrs 59 mins (92.68%)
-
-✍️ 10,356 lines written by AI, 4 lines written by hand (99.96% AI-written)
-
-🔤 862,021,757 Input Tokens, 2,322,201 Output Tokens
-
-💵 $3976.87 Estimated AI Cost This Week
-
-🧠 54 AI Sessions, 259 AI Prompts
-
-Opus                     8,591 lines         ███████████████████████░░   90.53 % 
-Fable                    899 lines           ██░░░░░░░░░░░░░░░░░░░░░░░   09.47 % 
-Sonnet                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-
-🔎 AI Coding Insights:
-🤖 AI-Driven — 99.96% of written lines came from AI
-📚 Verbose Prompter — average 7,401 characters per prompt
-🔁 Iterative Prompter — average 5 prompts per session
-🚀 High AI Trust — 0.31% of changed lines were hand-edited
-```
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C738%20hrs%2025%20mins-blue?style=flat)
 
 
 <!--END_SECTION:waka-->
