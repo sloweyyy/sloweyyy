@@ -13,19 +13,19 @@ Software Engineer / DevOps Engineer with a strong focus on building scalable and
 </br>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C798%20hrs%2059%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C810%20hrs%2038%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-1%2C207%20hrs%2042%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-1%2C224%20hrs%2023%20mins-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
 ```text
 🐱‍💻 Projects: 
-daily-stuff              36 hrs 17 mins      █████████████░░░░░░░░░░░░   50.40 % 
-slowey-lab               11 hrs 22 mins      ████░░░░░░░░░░░░░░░░░░░░░   15.80 % 
-katalon-support-assistant7 hrs 18 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.16 % 
-katalon-docs-dita        4 hrs 13 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.86 % 
-katalon-atg              2 hrs 42 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   03.77 % 
+daily-stuff              33 hrs 21 mins      ████████████░░░░░░░░░░░░░   46.20 % 
+slowey-lab               9 hrs 15 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.81 % 
+katalon-support-assistant9 hrs 10 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.70 % 
+resume-maker             5 hrs 7 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.10 % 
+katalon-docs-dita        4 hrs 13 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.85 % 
 ```
 
 
