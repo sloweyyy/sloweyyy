@@ -15,8 +15,6 @@ Software Engineer / DevOps Engineer with a strong focus on building scalable and
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-3%2C859%20hrs%2035%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-1%2C276%20hrs%2035%20mins-blue?style=flat)
-
 📊 **This Week I Spent My Time On** 
 
 ```text
