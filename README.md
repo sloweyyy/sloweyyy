@@ -13,17 +13,17 @@ Software Engineer / DevOps Engineer with a strong focus on building scalable and
 </br>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C871%20hrs%2015%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C873%20hrs%2047%20mins-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
 ```text
 🐱‍💻 Projects: 
-daily-stuff              30 hrs 21 mins      ██████████░░░░░░░░░░░░░░░   40.15 % 
-katalon-support-assistant13 hrs 51 mins      █████░░░░░░░░░░░░░░░░░░░░   18.32 % 
-support-operation-center 13 hrs 25 mins      ████░░░░░░░░░░░░░░░░░░░░░   17.75 % 
-docloop                  7 hrs 22 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.74 % 
-resume-maker             4 hrs 42 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.23 % 
+daily-stuff              28 hrs 10 mins      █████████░░░░░░░░░░░░░░░░   37.10 % 
+katalon-support-assistant13 hrs 51 mins      █████░░░░░░░░░░░░░░░░░░░░   18.24 % 
+support-operation-center 13 hrs 25 mins      ████░░░░░░░░░░░░░░░░░░░░░   17.67 % 
+docloop                  9 hrs 54 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.05 % 
+resume-maker             4 hrs 42 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.20 % 
 ```
 
 
