@@ -19,11 +19,11 @@ Software Engineer / DevOps Engineer with a strong focus on building scalable and
 
 ```text
 🐱‍💻 Projects: 
-daily-stuff              21 hrs 38 mins      █████████░░░░░░░░░░░░░░░░   36.66 % 
-docloop                  16 hrs 20 mins      ███████░░░░░░░░░░░░░░░░░░   27.67 % 
-support-operation-center 7 hrs 44 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.11 % 
-katalon-support-assistant6 hrs 32 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.08 % 
-slowey-lab               2 hrs 28 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.20 % 
+daily-stuff              19 hrs 3 mins       ██████████░░░░░░░░░░░░░░░   38.76 % 
+docloop                  16 hrs 8 mins       ████████░░░░░░░░░░░░░░░░░   32.84 % 
+support-operation-center 5 hrs 9 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.48 % 
+katalon-support-assistant3 hrs 16 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.65 % 
+resume-maker             2 hrs 22 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.82 % 
 ```
 
 
