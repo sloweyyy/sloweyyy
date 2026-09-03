@@ -19,11 +19,7 @@ Software Engineer / DevOps Engineer with a strong focus on building scalable and
 
 ```text
 🐱‍💻 Projects: 
-daily-stuff              4 hrs 50 mins       █████████████░░░░░░░░░░░░   53.09 % 
-docloop                  2 hrs 59 mins       ████████░░░░░░░░░░░░░░░░░   32.80 % 
-support-operation-center 33 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.21 % 
-resume-maker             32 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.03 % 
-workspace                9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.72 % 
+No Activity Tracked This Week
 ```
 
 
