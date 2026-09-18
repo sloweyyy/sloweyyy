@@ -19,11 +19,11 @@ Software Engineer / DevOps Engineer with a strong focus on building scalable and
 
 ```text
 🐱‍💻 Projects: 
-daily-stuff              35 hrs 13 mins      ███████████████████░░░░░░   77.88 % 
-kqe-veesan               4 hrs 53 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.82 % 
-support-operation-center 2 hrs 54 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.43 % 
-katalon-support-assistant32 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.21 % 
-docloop                  31 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.16 % 
+daily-stuff              33 hrs 5 mins       █████████████████████░░░░   82.85 % 
+support-operation-center 2 hrs 22 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.96 % 
+kqe-veesan               2 hrs 16 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.68 % 
+katalon-support-assistant32 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.37 % 
+docloop                  31 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.31 % 
 ```
 
 
