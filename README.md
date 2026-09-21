@@ -19,10 +19,7 @@ Software Engineer / DevOps Engineer with a strong focus on building scalable and
 
 ```text
 🐱‍💻 Projects: 
-daily-stuff              3 hrs 38 mins       ███████████████████████░░   90.17 % 
-thor                     14 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.04 % 
-botbranch                4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.03 % 
-botrepo                  4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.76 % 
+No Activity Tracked This Week
 ```
 
 
