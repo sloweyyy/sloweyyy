@@ -19,11 +19,10 @@ Software Engineer / DevOps Engineer with a strong focus on building scalable and
 
 ```text
 🐱‍💻 Projects: 
-website-katalon-training 8 hrs 23 mins       ██████████░░░░░░░░░░░░░░░   41.89 % 
-daily-stuff              4 hrs 23 mins       █████░░░░░░░░░░░░░░░░░░░░   21.93 % 
-Code                     3 hrs 23 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.91 % 
-katalon-support-assistant2 hrs 57 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.75 % 
-aivision-test-cases      51 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.31 % 
+daily-stuff              3 hrs 44 mins       ███████████░░░░░░░░░░░░░░   43.58 % 
+website-katalon-training 3 hrs 14 mins       █████████░░░░░░░░░░░░░░░░   37.72 % 
+katalon-support-assistant1 hr 33 mins        █████░░░░░░░░░░░░░░░░░░░░   18.19 % 
+TrueTest-iGO             2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.52 % 
 ```
 
 
