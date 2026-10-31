@@ -16,6 +16,17 @@ Software Engineer / DevOps Engineer with a strong focus on building scalable and
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-3%2C931%20hrs%2030%20mins-blue?style=flat)
 
+📊 **This Week I Spent My Time On** 
+
+```text
+🐱‍💻 Projects: 
+Trustify-Frontend        18 hrs 36 mins      █████████████░░░░░░░░░░░░   51.13 % 
+second-brain             15 hrs 6 mins       ██████████░░░░░░░░░░░░░░░   41.50 % 
+Trustify-Backend         2 hrs               █░░░░░░░░░░░░░░░░░░░░░░░░   05.54 % 
+Trustify                 30 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.41 % 
+dp                       5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 % 
+```
+
 
 <!--END_SECTION:waka-->
 
