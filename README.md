@@ -20,11 +20,11 @@ Software Engineer / DevOps Engineer with a strong focus on building scalable and
 
 ```text
 🐱‍💻 Projects: 
-Trustify-Frontend        18 hrs 36 mins      █████████████░░░░░░░░░░░░   51.13 % 
-second-brain             15 hrs 6 mins       ██████████░░░░░░░░░░░░░░░   41.50 % 
-Trustify-Backend         2 hrs               █░░░░░░░░░░░░░░░░░░░░░░░░   05.54 % 
-Trustify                 30 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.41 % 
-dp                       5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 % 
+Trustify-Frontend        18 hrs 36 mins      ██████████████████░░░░░░░   71.10 % 
+second-brain             4 hrs 55 mins       █████░░░░░░░░░░░░░░░░░░░░   18.85 % 
+Trustify-Backend         2 hrs               ██░░░░░░░░░░░░░░░░░░░░░░░   07.70 % 
+Trustify                 30 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.96 % 
+dp                       5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.37 % 
 ```
 
 
