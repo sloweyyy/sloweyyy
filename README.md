@@ -14,16 +14,15 @@ Software Engineer / DevOps Engineer with a strong focus on building scalable and
 </br>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C953%20hrs%208%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C956%20hrs%2013%20mins-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
 ```text
 🐱‍💻 Projects: 
-second-brain             84 hrs 58 mins      ████████████████████████░   95.26 % 
-support-tools            3 hrs 25 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   03.83 % 
-create-a-scheduled-task-c48 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.90 % 
-sa                       0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
+second-brain             71 hrs 2 mins       ████████████████████████░   94.50 % 
+support-tools            3 hrs 25 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.55 % 
+create-a-scheduled-task-c42 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.95 % 
 ```
 
 
