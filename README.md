@@ -20,9 +20,9 @@ Software Engineer / DevOps Engineer with a strong focus on building scalable and
 
 ```text
 🐱‍💻 Projects: 
-second-brain             49 hrs 16 mins      ████████████████████████░   96.27 % 
-support-tools            1 hr 53 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.68 % 
-create-a-scheduled-task-c1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
+second-brain             25 hrs 23 mins      ███████████████████████░░   93.42 % 
+support-tools            1 hr 45 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.50 % 
+create-a-scheduled-task-c1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 % 
 ```
 
 
