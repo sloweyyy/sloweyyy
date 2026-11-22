@@ -20,10 +20,9 @@ Software Engineer / DevOps Engineer with a strong focus on building scalable and
 
 ```text
 🐱‍💻 Projects: 
-second-brain             71 hrs 32 mins      ████████████████████████░   94.46 % 
-create-a-scheduled-task-c2 hrs 16 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   03.01 % 
-support-tools            1 hr 53 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.49 % 
-tinyfish-oncall-support  1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
+second-brain             56 hrs 35 mins      ████████████████████████░   97.20 % 
+create-a-scheduled-task-c55 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.60 % 
+support-tools            42 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.20 % 
 ```
 
 
